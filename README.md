@@ -51,7 +51,7 @@ I have completed the following projects in certain domains:
 In this project, we are trying to apply GNN (Graph Neural Networks) on a classical machine learning problem, i.e., TSP. Travelling salesman problem is a fully integer-based programming model that makes it NP-hard i.e., it does not have a natural feasible solution.. So, we are trying to use the graph structure of a neural network to solve a TSP problem and give a good accuracy using learning instead of carefully designed heuristics. Our approach is to use the state-of-the-art solvers and use imitation learning to get a reliable model, then use reinforcement learning to increase the accuracy of the model.
 
 ---
-� 
+
 #### Industy Experience: 
 
 I have completed a 6-month internship as a Data Science Intern in 2020. I was responsible for planning and executing a Computer Vision project. Using Keras and Tensorflow, the objective was to create a model to predict the age of person given a dataset with images. Implementation was completed utilizing bottleneck features from a Convolution Neural Network (CNN) trained on a wide set of publicly available image datasets. My internships have allowed me to gain real-time experience on interesting topics like recommendation systems and time series analysis. I also got experience in dealing with real-time data pipelines including extracting video-based input using Apache Kafka.  
