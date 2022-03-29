@@ -38,7 +38,8 @@ I have completed the following projects in certain domains:
     - Applied CNNs on real time data to perform age detection
     - Sentitment Detection using the concept of eigenface
 - Natural Language Processing
-    - Utilized OCR to recognize text from images. Applied Contour Detection and thesholding image processing before utilizing OCR on the data.
+    - Utilized OCR to recognize text from images. Applied Contour Detection and thesholding image processing for pre-processing the data.
+    - Text Sentiment analysis on twitter data using R and wordvec
 - Social Media Analysis
     - Applied Data Mining Algorithms to get information from Twitter data.
 - Reinforcement Learning
