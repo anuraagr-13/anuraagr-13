@@ -9,6 +9,7 @@ Ever since high school, the concept of utilizing data to generate insights and m
 💻 **Currently I am working as a Data Programmer Intern at the Education Policy Initiative affiliated with the Gerard R. Ford School of Public Policy**
 
 I am working on the data intake process to bring in education data (K-12 Student, Staff as well as Building) from the Michigan state to the EPI data repository to distribute to researchers. Further, I am collaborating to design and refine the logic of matching Personally Identifiable Information(PII) to survey data collected by researchers. My first project was to perform analysis for creating a Cleaned K-12 Grade for the EPI dataset to solve grade jumps, repeats and conflicts.
+
 ---
 
 #### Languages:
