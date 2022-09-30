@@ -14,11 +14,11 @@ I am working on the data intake process to bring in education data (K-12 Student
 
 #### Languages:
 
-Python, SQL, R, Java, C++, JavaScript, PySpark, Stata, Keras, Hadoop, 
+Python, SQL, R, Java, C++, JavaScript, PySpark, Stata, Keras
 
 ### Tools:
 
- Jupyter, Power BI, SSIS, Tensorflow, PyTorch, MapReduce
+ Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce
 
 ---
 
