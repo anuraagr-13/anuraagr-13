@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-My name is Anuraag Ramesh. I am currently puruing my Master's in Data Science at University of Michigan, Ann Arbor. I have completed my undergraduate degree in Computer Science and Engineering from Vellore Institute of Technology, Vellore. **I am a data science enthusiast who is currently looking for full time job opportunities as a Data Scienctist/Analyst.** 
+My name is Anuraag Ramesh. I am currently puruing my Master's in Data Science at University of Michigan, Ann Arbor. I have completed my undergraduate degree in Computer Science and Engineering from Vellore Institute of Technology, Vellore. **I am a data science enthusiast who is currently looking for full time job opportunities as a Data Scientist/Analyst.** 
 
 Ever since high school, the concept of utilizing data to generate insights and making predications, caught my attention. I have been looking forward to working in this domain and perform essential analysis on real-time data. Owing to my undergrad in Computer Science, I am extremely comfortable in using scripting languages like Python and R as well as SQL. I have also spent a lot of time programming in C, C++, and Java. 
 
