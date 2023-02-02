@@ -57,7 +57,7 @@ I have completed the following projects in certain domains:
     - Designed an AI agent that learns to dodge an environment created using pygame and pymunk.
 
 ---
-🔭 My most recent project was solving math word problems using a Large Language Models like GPT -2 or GPT -3
+🔭 My most recent project was solving math word problems using a large language model like GPT -2 or GPT -3
 
 I worked with the complex GSM8K data created by OpenAI, which has tough word problems. The project led to a successful implementation of chain of thought prompting to get added context to solve complex word problems.
 Finally, I developed a fine-tuned, chain of thought conditioned GPT – 2 model that gives a heightened accuracy of 26%, compared to a mere 6% using a basic large language model like MWP or Bert.
