@@ -18,7 +18,7 @@ Python, SQL, R, Java, C++, JavaScript, PySpark, Stata, Keras
 
 ### Tools:
 
- Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce
+Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce
 
 ---
 
@@ -62,7 +62,7 @@ I have completed the following projects in certain domains:
 I worked with the complex GSM8K data created by OpenAI, which has tough word problems. The project led to a successful implementation of chain of thought prompting to get added context to solve complex word problems.
 Finally, I developed a fine-tuned, chain of thought conditioned GPT – 2 model that gives a heightened accuracy of 26%, compared to a mere 6% using a basic large language model like MWP or Bert.
 
-🔭 I was working on Solving a classic machine learning problem (TSP) using a Graph neural network. 
+🔭 I worked on  a project "Solving a classic machine learning problem (TSP) using a Graph neural network"
 
 In this project, we tried to apply GNN (Graph Neural Networks) on a classical machine learning problem, i.e., TSP. Travelling salesman problem is a fully integer-based programming model that makes it NP-hard i.e., it does not have a natural feasible solution.. So, our solution was trying to use the graph structure of a neural network to solve a TSP problem and give a good accuracy using learning instead of carefully designed heuristics. Our approach was to use the state-of-the-art solvers and use imitation learning to get a reliable model, then use reinforcement learning to increase the accuracy of the model.
 
