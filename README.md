@@ -1,34 +1,32 @@
 ### Hi there!! 👋
 
-My name is Anuraag Ramesh. I am currently puruing my Master's in Data Science at University of Michigan, Ann Arbor. I have completed my undergraduate degree in Computer Science and Engineering from Vellore Institute of Technology, Vellore. **I am a data science enthusiast who is currently looking for full time job opportunities as a Data Scientist/Analyst.** 
+My name is Anuraag Ramesh. I have compeleted my Master's in Data Science at the University of Michigan, Ann Arbor. I have completed coursework in data manipulation and analysis, linear and correlated models, data mining and machine learning that have added to my knowledge of working with data and create prediction models. I have an undergraduate degree in Computer Science and Engineering from Vellore Institute of Technology. **I am a data science enthusiast who is currently looking for full time job opportunities as a Data Scientist/Data Analyst/Data Engineer.** 
 
 Ever since high school, the concept of utilizing data to generate insights and making predications, caught my attention. I have been looking forward to working in this domain and perform essential analysis on real-time data. Owing to my undergrad in Computer Science, I am extremely comfortable in using scripting languages like Python and R as well as SQL. I have also spent a lot of time programming in C, C++, and Java. 
 
 ---
 
-💻 **Currently I am working as a Student Data Programmer at the Education Policy Initiative affiliated with the Gerard R. Ford School of Public Policy**
+💻 **Currently I am working as a Data Programmer/Analyst at the Education Policy Initiative affiliated with the Gerard R. Ford School of Public Policy**
 
-I am working on the data intake process to bring in education data (K-12 Student, Staff as well as Building) from the Michigan state to the EPI data repository to distribute to researchers. Further, I am collaborating to design and refine the logic of matching Personally Identifiable Information(PII) to survey data collected by researchers. My first project was to perform analysis for creating a Cleaned K-12 Grade for the EPI dataset to solve grade jumps, repeats and conflicts.
+I am working as a Data Programmer/Analyst with the Education Policy Initiative where I am completing the ETL process for K-12 education data and automating the process of securely bringing data from a data warehouse using SQL Server. Further, I am collaborating to design and refine the logic of matching Personally Identifiable Information(PII) to survey data collected by researchers. My first project was to perform analysis for creating a Cleaned K-12 Grade for the EPI dataset to solve grade jumps, repeats and conflicts.
 
 ---
 
 #### Languages:
 
-Python, SQL, R, Java, C++, JavaScript, PySpark, Stata, Keras
+Python, SQL, R, Java, C++, JavaScript, PySpark, Keras, C, Javascript, T-SQL
 
 ### Tools:
 
-Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce
+Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce, Airflow, Kafka, Tableau
 
 ---
 
 #### Technical Knowledge:
 
-
 - Machine Learning
 - Computer Vision
 - Deep Learning
-- Reinforcement Learning
 - Natural Langauge Processing
 
 ---
@@ -45,6 +43,9 @@ My interests are in the following domains:
 - Internet of Things
 
 I have completed the following projects in certain domains:
+- Big Data Analysis
+  - Utilized Hadoop and MapReduce to analyze movie data, to find the social impact of movies. I was interested in finding out whether movies that tackle social issues/hard-hitting topics, get their share of recognition.
+  - The dataset was the huge TMDB dataset, accessed using an automated API application created in Python.
 - Computer Vision
     - Applied CNNs on real time data to perform age detection
     - Sentitment Detection using the concept of eigenface
@@ -60,14 +61,14 @@ I have completed the following projects in certain domains:
 🔭 My most recent project was solving math word problems using a large language model like GPT -2 or GPT -3
 
 I worked with the complex GSM8K data created by OpenAI, which has tough word problems. The project led to a successful implementation of chain of thought prompting to get added context to solve complex word problems.
-Finally, I developed a fine-tuned, chain of thought conditioned GPT – 2 model that gives a heightened accuracy of 26%, compared to a mere 6% using a basic large language model like MWP or Bert.
+Finally, I developed a fine-tuned, chain of thought conditioned GPT – 2 model that gives a heightened accuracy of 200%, compared to using a basic large language model like MWP or Bert.
 
-🔭 I worked on  a project "Solving a classic machine learning problem (TSP) using a Graph neural network"
+🔭 I worked on a project "Solving a classic machine learning problem (TSP) using a Graph neural network"
 
 In this project, we tried to apply GNN (Graph Neural Networks) on a classical machine learning problem, i.e., TSP. Travelling salesman problem is a fully integer-based programming model that makes it NP-hard i.e., it does not have a natural feasible solution.. So, our solution was trying to use the graph structure of a neural network to solve a TSP problem and give a good accuracy using learning instead of carefully designed heuristics. Our approach was to use the state-of-the-art solvers and use imitation learning to get a reliable model, then use reinforcement learning to increase the accuracy of the model.
 
 Results:
-We were able to get a lower time to solve the TSP solver compared to the state of the art(SOTA) solver like Gurobi. However, teh result failed to beat the dedicated solver for the TSP problem - Concorde. However, the project served as a proof of concept that GNNs accompanied with reinforcement learning can work to solve TSP problems.
+We were able to get a 50% faster time to solve the TSP problem compared to the state of the art(SOTA) solver like Gurobi. However, teh result failed to beat the dedicated solver for the TSP problem - Concorde. However, the project served as a proof of concept that GNNs accompanied with reinforcement learning can work to solve TSP problems or in general, NP-hard problems.
 
 ---
 
