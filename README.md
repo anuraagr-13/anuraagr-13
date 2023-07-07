@@ -82,7 +82,7 @@ I also worked on many essential components of Computer Vision and Natural Langua
 
 Here is my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/-anuraag-ramesh/)  
 
-Link to projects compelted : [Projects Completed](Portfolio.pdf)
+Link to projects completed : [Projects Completed](Portfolio.pdf)
 
 <!--
 **anuraagr-13/anuraagr-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
