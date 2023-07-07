@@ -80,7 +80,8 @@ I have completed a 6-month internship as a Data Science Intern in 2020. I was re
 
 I also worked on many essential components of Computer Vision and Natural Language Processing including building a traffic intensity detection system as well as a user feedback reading system using Deep Learning.  
 
-Here is my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/-anuraag-ramesh/)
+Here is my Linkedin profile: [LinkedIn](https://www.linkedin.com/in/-anuraag-ramesh/)  
+
 Link to projects compelted : [Projects Completed](Portfolio.pdf)
 
 <!--
