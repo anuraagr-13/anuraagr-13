@@ -8,17 +8,18 @@ Ever since high school, the concept of utilizing data to generate insights and m
 
 💻 **Currently I am working as a Data Programmer/Analyst at the Education Policy Initiative affiliated with the Gerard R. Ford School of Public Policy**
 
-I am working as a Data Programmer/Analyst with the Education Policy Initiative where I am completing the ETL process for K-12 education data and automating the process of securely bringing data from a data warehouse using SQL Server. Further, I am collaborating to design and refine the logic of matching Personally Identifiable Information(PII) to survey data collected by researchers. My first project was to perform analysis for creating a Cleaned K-12 Grade for the EPI dataset to solve grade jumps, repeats and conflicts.
+I am working as a Data Programmer/Analyst with the Education Policy Initiative where I manage the ETL process for K-12 education data and have automated critical data transfer processes using SQL Server. Further, I am collaborating to design and refine the logic of matching Personally Identifiable Information(PII) to survey data collected by researchers. My first project was performing in-depth analysis on K-12 student data, constructing a “Cleaned Grade” variable that accurately represents
+grade progressions and resolves grade conflicts, which enhancing data reliability for future analysis.
 
 ---
 
 #### Languages:
 
-Python, SQL, R, Java, C++, JavaScript, PySpark, Keras, C, Javascript, T-SQL
+Python, SQL, R, Java, C++, JavaScript, PySpark, C, Javascript
 
 ### Tools:
 
-Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce, Airflow, Kafka, Tableau
+Jupyter, Microsoft Power BI, SSIS, Tensorflow, PyTorch, Hadoop, Airflow, Apache Kafka, Apache Airflow, Tableau, Docker
 
 ---
 
@@ -35,6 +36,7 @@ Jupyter, Power BI, SSIS, Tensorflow, PyTorch, Hadoop, MapReduce, Airflow, Kafka,
 
 My interests are in the following domains:
 - Data Analysis
+- Machine Learning
 - Computer Vision
 - Natural Language Processing
 - Social Media Analysis (Computational Social Science)
@@ -75,6 +77,8 @@ We were able to get a 50% faster time to solve the TSP problem compared to the s
 #### Industy Experience: 
 
 I am  working as a Data Programmer since June 2022 at the Education Policy Initiative affiliated with the Gerard R. Ford School of Public Policy.
+
+Before this, I was a Data Consultant at a manufacturing firm. I conducted extensive data analysis on the sales trends of polypropylene bags, identifying key growth opportunities and outlining strategies for production scaling in a comprehensive analytical memo. I leveraged Microsoft Power BI to develop profit share dashboards, supporting a projected 25% uplift in expansion-based growth. 
 
 I have completed a 6-month internship as a Data Science Intern in 2020. I was responsible for planning and executing a Computer Vision project. Using Keras and Tensorflow, the objective was to create a model to predict the age of person given a dataset with images. Implementation was completed utilizing bottleneck features from a Convolution Neural Network (CNN) trained on a wide set of publicly available image datasets. My internships have allowed me to gain real-time experience on interesting topics like recommendation systems and time series analysis. I also got experience in dealing with real-time data pipelines including extracting video-based input using Apache Kafka.  
 
